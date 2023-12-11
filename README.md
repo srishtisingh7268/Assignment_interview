@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## For Json Server Api
+
+* To start the Json server type the command in the Visual Studio Code terminal: npm install -g json-server
+* Then to start the Json server type the command in the CMD : json-server --watch db.json
+* Now the Json server is running on  http://localhost:3000 port
